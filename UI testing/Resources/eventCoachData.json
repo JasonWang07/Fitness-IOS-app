@@ -1,0 +1,17 @@
+[
+]{
+    "name": "Let me teach you how to surf!",
+    "category": "Water",
+    "id": 4001,
+    "description": "I'm a professional surfing coach, looking for students now, 700NTD per hr",
+    "host":"Max",
+    "host_id":"@max37",
+    "day":["Mon","Fri","Sun"],
+    "time":"PM 7:30",
+    "coordinates": {
+        "longitude": -116.166868,
+        "latitude": 34.011286
+    },
+    "hostimageName": "Max"
+}
+]

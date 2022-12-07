@@ -1,0 +1,74 @@
+    [
+        {
+            "name": "Badminton",
+            "category": "Ball",
+            "id": 1001,
+            "description": "",
+            "imageName": "badminton"
+        },
+        {
+            "name": "Tennis",
+            "category": "Ball",
+            "id": 1002,
+            "description": "",
+            "imageName": "tennis"
+        },
+        {
+            "name": "Baseball",
+            "category": "Ball",
+            "id": 1003,
+            "description": "",
+            "imageName": "baseball"
+        },
+        {
+            "name": "Aerobic",
+            "category": "Fitness",
+            "id": 2001,
+            "description": "",
+            "imageName": "aerobic"
+        },
+        {
+            "name": "Anaerobic",
+            "category": "Fitness",
+            "id": 2002,
+            "description": "",
+            "imageName": "anaerobic"
+        },
+        {
+            "name": "Camping",
+            "category": "Outdoor",
+            "id": 3001,
+            "description": "",
+            "imageName": "camping"
+        },
+        {
+            "name": "Rock climbing",
+            "category": "Outdoor",
+            "id": 3002,
+            "description": "",
+            "imageName": "rock"
+        },
+        {
+            "name": "Surfing",
+            "category": "Water",
+            "id": 4001,
+            "description": "",
+            "imageName": "surfing"
+        },
+        {
+            "name": "SUP",
+            "category": "Water",
+            "id": 4002,
+            "description": "",
+            "imageName": "sup"
+        },
+        {
+            "name": "Yoga",
+            "category": "Others",
+            "id": 5001,
+            "description": "",
+            "imageName": "yoga"
+        }
+        
+    ]
+
