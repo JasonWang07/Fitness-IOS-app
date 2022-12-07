@@ -31,7 +31,7 @@ struct MemoryGame<CardContent>{
         var isMatched: Bool = false
         var content: CardContent
         var test: Int
-        var test2: Int
+        var test3: Int
     }
     
 }
