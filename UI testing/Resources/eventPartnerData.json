@@ -1,0 +1,35 @@
+
+[
+    {
+        "name": "Let's go Badminton!",
+        "category": "Ball",
+        "id": 1001,
+        "description": "we have 3 ppl so far, feel free to join this afternoon",
+        "host":"Ohtani",
+        "host_id":"@ohtani17",
+        "date":"12/7",
+        "time":"PM 7:30",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "current_participants":3,
+        "desired_paricipants":6
+    },
+    {
+        "name": "Let's surf!",
+        "category": "Water",
+        "id": 4001,
+        "description": "I'm a professional surfing coach, looking for partners",
+        "host":"Max",
+        "host_id":"@max37",
+        "date":"12/13",
+        "time":"AM 7:30",
+        "coordinates": {
+            "longitude": -116.166868,
+            "latitude": 34.011286
+        },
+        "current_participants":2,
+        "desired_paricipants":10
+    }
+]

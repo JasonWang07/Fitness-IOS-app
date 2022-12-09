@@ -1,6 +1,7 @@
 
 [
     {
+        "id": 0,
         "name": "Aaron",
         "user_id": "aaron_99",
         "imageName": "Aaron",
@@ -9,6 +10,7 @@
         "msg_time": "PM 4:29"
     },
     {
+        "id": 1,
         "name": "Nolan",
         "user_id": "nolan_27",
         "imageName": "Nolan",

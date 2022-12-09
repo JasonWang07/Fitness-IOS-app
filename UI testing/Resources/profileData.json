@@ -1,34 +1,12 @@
 [
     {
-        "sport": "Badminton",
-        "category": "Ball",
-        "id": 1001,
-        "host": "Aaron",
-        "description": "just for fun, come and play",
-        "date": "10/15",
-        "time": "2pm-4pm",
-        "ideal_participants": 6,
-        "current_participants": 3,
+        "name": "Aaron",
+        "id": 99,
+        "user_id":"aaron_99",
         "imageName": "Aaron",
-        "coordinates": {
-            "longitude": -116.166868,
-            "latitude": 34.011286
-        }
-    },
-    {
-        "sport": "Aerobic",
-        "category": "Fitness",
-        "id": 2001,
-        "host": "Nolan",
-        "description": "only for professional runners",
-        "date": "10/19",
-        "time": "3pm-6pm",
-        "ideal_participants": 12,
-        "current_participants": 7,
-        "imageName": "Nolan",
-        "coordinates": {
-            "longitude": -153.166868,
-            "latitude": 39.011286
-        }
+        "event_host_num":2,
+        "event_join_num":7,
+        "followers":723,
+        "coach" : true
     }
 ]

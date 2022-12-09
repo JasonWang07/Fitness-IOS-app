@@ -7,12 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D44EAE5D29387B71009729E3 /* chatData.json in Resources */ = {isa = PBXBuildFile; fileRef = D44EAE5C29387B71009729E3 /* chatData.json */; };
-		D44EAE5F29387BC5009729E3 /* profileData.json in Resources */ = {isa = PBXBuildFile; fileRef = D44EAE5E29387BC5009729E3 /* profileData.json */; };
+		42F86D2D29431D9400178C69 /* profileData.json in Resources */ = {isa = PBXBuildFile; fileRef = 42F86D2C29431D9400178C69 /* profileData.json */; };
+		42F86D2F29431DCB00178C69 /* sportCategoryData.json in Resources */ = {isa = PBXBuildFile; fileRef = 42F86D2E29431DCA00178C69 /* sportCategoryData.json */; };
+		42F86D3129431DF100178C69 /* scheduleData.json in Resources */ = {isa = PBXBuildFile; fileRef = 42F86D3029431DF100178C69 /* scheduleData.json */; };
+		42F86D3329431E0400178C69 /* eventData.json in Resources */ = {isa = PBXBuildFile; fileRef = 42F86D3229431E0400178C69 /* eventData.json */; };
+		42F86D3529431E1700178C69 /* eventCoachData.json in Resources */ = {isa = PBXBuildFile; fileRef = 42F86D3429431E1700178C69 /* eventCoachData.json */; };
+		42F86D3729431E5000178C69 /* chatData.json in Resources */ = {isa = PBXBuildFile; fileRef = 42F86D3629431E5000178C69 /* chatData.json */; };
+		42F86D392943218200178C69 /* eventPartnerData.json in Resources */ = {isa = PBXBuildFile; fileRef = 42F86D382943218200178C69 /* eventPartnerData.json */; };
 		D44EAE6129387CC0009729E3 /* Profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = D44EAE6029387CC0009729E3 /* Profile.swift */; };
 		D44EAE6329387CCD009729E3 /* ProfileData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D44EAE6229387CCD009729E3 /* ProfileData.swift */; };
-		D44EAE652939E3CF009729E3 /* eventPartnerData.json in Resources */ = {isa = PBXBuildFile; fileRef = D44EAE642939E3CF009729E3 /* eventPartnerData.json */; };
-		D44EAE672939E703009729E3 /* eventCoachData.json in Resources */ = {isa = PBXBuildFile; fileRef = D44EAE662939E703009729E3 /* eventCoachData.json */; };
 		D44EAE692939E7E6009729E3 /* EventPartnerData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D44EAE682939E7E6009729E3 /* EventPartnerData.swift */; };
 		D44EAE6B2939E7F8009729E3 /* EventPartner.swift in Sources */ = {isa = PBXBuildFile; fileRef = D44EAE6A2939E7F8009729E3 /* EventPartner.swift */; };
 		D44EAE6D2939F1E9009729E3 /* EventPartnerHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = D44EAE6C2939F1E9009729E3 /* EventPartnerHome.swift */; };
@@ -31,8 +34,6 @@
 		D4FE71DA29351B6C00BBAFE3 /* ProfileHome.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FE71D929351B6C00BBAFE3 /* ProfileHome.swift */; };
 		D4FE71E129359EE100BBAFE3 /* SportData.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FE71E029359EE100BBAFE3 /* SportData.swift */; };
 		D4FE71E329359F0F00BBAFE3 /* Sport.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FE71E229359F0F00BBAFE3 /* Sport.swift */; };
-		D4FE71E62935E9EF00BBAFE3 /* sportCategoryData.json in Resources */ = {isa = PBXBuildFile; fileRef = D4FE71E52935E9EF00BBAFE3 /* sportCategoryData.json */; };
-		D4FE71F52935ED5600BBAFE3 /* scheduleData.json in Sources */ = {isa = PBXBuildFile; fileRef = D4FE71F42935ED5600BBAFE3 /* scheduleData.json */; };
 		D4FE71F82935EE0E00BBAFE3 /* DateHolder.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FE71F72935EE0E00BBAFE3 /* DateHolder.swift */; };
 		D4FE71FA2935EED400BBAFE3 /* CalendarCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FE71F92935EED400BBAFE3 /* CalendarCell.swift */; };
 		D4FE71FC2935EEF100BBAFE3 /* CalendarHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FE71FB2935EEF100BBAFE3 /* CalendarHelper.swift */; };
@@ -44,12 +45,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		D44EAE5C29387B71009729E3 /* chatData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = chatData.json; path = ../../../../.Trash/chatData.json; sourceTree = "<group>"; };
-		D44EAE5E29387BC5009729E3 /* profileData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = profileData.json; path = ../../../../Downloads/profileData.json; sourceTree = "<group>"; };
+		42F86D2C29431D9400178C69 /* profileData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = profileData.json; sourceTree = "<group>"; };
+		42F86D2E29431DCA00178C69 /* sportCategoryData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = sportCategoryData.json; sourceTree = "<group>"; };
+		42F86D3029431DF100178C69 /* scheduleData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = scheduleData.json; sourceTree = "<group>"; };
+		42F86D3229431E0400178C69 /* eventData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = eventData.json; sourceTree = "<group>"; };
+		42F86D3429431E1700178C69 /* eventCoachData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = eventCoachData.json; sourceTree = "<group>"; };
+		42F86D3629431E5000178C69 /* chatData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = chatData.json; sourceTree = "<group>"; };
+		42F86D382943218200178C69 /* eventPartnerData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = eventPartnerData.json; sourceTree = "<group>"; };
 		D44EAE6029387CC0009729E3 /* Profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Profile.swift; sourceTree = "<group>"; };
 		D44EAE6229387CCD009729E3 /* ProfileData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileData.swift; sourceTree = "<group>"; };
-		D44EAE642939E3CF009729E3 /* eventPartnerData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = eventPartnerData.json; path = ../../../../Downloads/eventPartnerData.json; sourceTree = "<group>"; };
-		D44EAE662939E703009729E3 /* eventCoachData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = eventCoachData.json; sourceTree = "<group>"; };
 		D44EAE682939E7E6009729E3 /* EventPartnerData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventPartnerData.swift; sourceTree = "<group>"; };
 		D44EAE6A2939E7F8009729E3 /* EventPartner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventPartner.swift; sourceTree = "<group>"; };
 		D44EAE6C2939F1E9009729E3 /* EventPartnerHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventPartnerHome.swift; sourceTree = "<group>"; };
@@ -69,8 +73,6 @@
 		D4FE71D929351B6C00BBAFE3 /* ProfileHome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileHome.swift; sourceTree = "<group>"; };
 		D4FE71E029359EE100BBAFE3 /* SportData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportData.swift; sourceTree = "<group>"; };
 		D4FE71E229359F0F00BBAFE3 /* Sport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sport.swift; sourceTree = "<group>"; };
-		D4FE71E52935E9EF00BBAFE3 /* sportCategoryData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = sportCategoryData.json; path = "../../../Fitness App2/Fitness App2/Resources/sportCategoryData.json"; sourceTree = "<group>"; };
-		D4FE71F42935ED5600BBAFE3 /* scheduleData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = scheduleData.json; sourceTree = "<group>"; };
 		D4FE71F72935EE0E00BBAFE3 /* DateHolder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateHolder.swift; sourceTree = "<group>"; };
 		D4FE71F92935EED400BBAFE3 /* CalendarCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarCell.swift; sourceTree = "<group>"; };
 		D4FE71FB2935EEF100BBAFE3 /* CalendarHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarHelper.swift; sourceTree = "<group>"; };
@@ -174,12 +176,13 @@
 		D4FE71DC29359E5700BBAFE3 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				D4FE71E52935E9EF00BBAFE3 /* sportCategoryData.json */,
-				D44EAE642939E3CF009729E3 /* eventPartnerData.json */,
-				D44EAE662939E703009729E3 /* eventCoachData.json */,
-				D44EAE5C29387B71009729E3 /* chatData.json */,
-				D44EAE5E29387BC5009729E3 /* profileData.json */,
-				D4FE71F42935ED5600BBAFE3 /* scheduleData.json */,
+				42F86D382943218200178C69 /* eventPartnerData.json */,
+				42F86D3629431E5000178C69 /* chatData.json */,
+				42F86D3429431E1700178C69 /* eventCoachData.json */,
+				42F86D3229431E0400178C69 /* eventData.json */,
+				42F86D3029431DF100178C69 /* scheduleData.json */,
+				42F86D2E29431DCA00178C69 /* sportCategoryData.json */,
+				42F86D2C29431D9400178C69 /* profileData.json */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -295,13 +298,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D44EAE672939E703009729E3 /* eventCoachData.json in Resources */,
-				D44EAE5F29387BC5009729E3 /* profileData.json in Resources */,
-				D4FE71E62935E9EF00BBAFE3 /* sportCategoryData.json in Resources */,
-				D44EAE652939E3CF009729E3 /* eventPartnerData.json in Resources */,
+				42F86D3529431E1700178C69 /* eventCoachData.json in Resources */,
+				42F86D392943218200178C69 /* eventPartnerData.json in Resources */,
+				42F86D2D29431D9400178C69 /* profileData.json in Resources */,
 				D4FE71CD29350CF000BBAFE3 /* Preview Assets.xcassets in Resources */,
+				42F86D3329431E0400178C69 /* eventData.json in Resources */,
+				42F86D2F29431DCB00178C69 /* sportCategoryData.json in Resources */,
 				D4FE71CA29350CF000BBAFE3 /* Assets.xcassets in Resources */,
-				D44EAE5D29387B71009729E3 /* chatData.json in Resources */,
+				42F86D3129431DF100178C69 /* scheduleData.json in Resources */,
+				42F86D3729431E5000178C69 /* chatData.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -329,7 +334,6 @@
 				D44EAE6329387CCD009729E3 /* ProfileData.swift in Sources */,
 				D44EAE71293AED8A009729E3 /* FilterUI.swift in Sources */,
 				D4FE72002935F0C900BBAFE3 /* MonthStruct.swift in Sources */,
-				D4FE71F52935ED5600BBAFE3 /* scheduleData.json in Sources */,
 				D4FE71E129359EE100BBAFE3 /* SportData.swift in Sources */,
 				D4FE71D829351B6200BBAFE3 /* ScheduleHome.swift in Sources */,
 				D44EAE78293DDD0F009729E3 /* EmojiMemoryGame.swift in Sources */,
@@ -474,6 +478,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -502,6 +507,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
