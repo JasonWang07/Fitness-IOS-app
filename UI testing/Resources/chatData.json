@@ -1,0 +1,19 @@
+
+[
+    {
+        "name": "Aaron",
+        "user_id": "aaron_99",
+        "imageName": "Aaron",
+        "last_msg": "wanna go play baseball?",
+        "unread_msg_num": 2,
+        "msg_time": "PM 4:29"
+    },
+    {
+        "name": "Nolan",
+        "user_id": "nolan_27",
+        "imageName": "Nolan",
+        "last_msg": "I will sign with St. louis",
+        "unread_msg_num": 3,
+        "msg_time": "AM 7:35"
+    }
+]
